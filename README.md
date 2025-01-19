@@ -1,7 +1,6 @@
 <!-- 타이틀 부분 -->
 <div align="center">
-  <h1>👋 김현진의 GitHub 👋</h1>
-  <img src="https://github.com/kimhj02/kimhj02/assets/101691440/92118a53-c5b6-40bc-bf8c398d7b51" />
+  <h1>👋 My_GitHub 👋</h1>
 </div>
 
 <!-- 내용 부분 -->
@@ -52,11 +51,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@kimhj02">
+  <a href="https://velog.io/@snowrabbit1234/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:kimhj02@gmail.com">
-    <img
-      src="https://img.shields.io/badge/kimhj02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
 </div>
