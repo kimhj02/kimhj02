@@ -1,9 +1,11 @@
 <!-- 타이틀 부분 -->
 <div align="center">
-  <h1>👋 My_GitHub 👋</h1>
+  <h1>👋 My GitHub 👋</h1>
 </div>
 
-<!-- 내용 부분 -->
+---
+
+<!-- Tech Stack -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
@@ -20,15 +22,17 @@
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
 </div>
 
-<br>
+---
 
+<!-- Studying -->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp
 </div>
 
-<br>
+---
 
+<!-- Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -39,9 +43,9 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp
 </div>
 
+---
 
-<br>
-
+<!-- Solved.ac -->
 <h3 align="center">🏅 Solved.ac 🏅</h3>
 <div align="center">
   <a href="https://solved.ac/profile/snowrabbit123">
@@ -49,8 +53,23 @@
   </a>
 </div>
 
-<br>
+---
 
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats 📊</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimhj02&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhj02&layout=compact&theme=radical" alt="Top Langs" />
+  </a>
+</div>
+
+---
+
+<!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@snowrabbit1234/posts">
