@@ -42,8 +42,8 @@
 
 <h3 align="center">🏅 Solved.ac 🏅</h3>
 <div align="center">
-  <a href="https://solved.ac/snowrabbit123">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=snowrabbit123" alt="백준 레이팅" />
+  <a href="https://solved.ac/profile/snowrabbit123">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=snowrabbit123" alt="Solved.ac Profile" />
   </a>
 </div>
 
