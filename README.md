@@ -78,4 +78,8 @@
   <a href="https://velog.io/@snowrabbit1234/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
+  <a href="https://daffy-uranium-cd9.notion.site/182017d54b78806b9492fc1455a8dfc7">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  </a>
 </div>
+
