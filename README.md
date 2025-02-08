@@ -1,6 +1,6 @@
 <!-- 타이틀 부분 -->
 <div align="center">
-  <h1>👋 My GitHub 👋</h1>
+  <h1>Kim's Hub</h1>
 </div>
 
 ---
