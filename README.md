@@ -56,22 +56,6 @@
   </a>
 </div>
 
----
-
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats 📊</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimhj02&show_icons=true&theme=radical&cache=no" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhj02&layout=compact&theme=radical" alt="Top Langs" />
-  </a>
-</div>
-
----
-
 <!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
