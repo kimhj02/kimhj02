@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ADsP-005BAC?style=for-the-badge&logo=data&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/SQLD-FF6F00?style=for-the-badge&logo=data&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/DAsp-FF6F00?style=for-the-badge&logo=data&logoColor=white" />&nbsp
 </div>
 
 
