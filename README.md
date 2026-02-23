@@ -46,11 +46,11 @@
 
 <h3 align="center">📊 Analysis & Ranking 📊</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimhj02&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhj02&layout=compact&theme=radical" height="180" />
-  
-  <br /><br />
-  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimhj02&show_icons=true&theme=radical" height="180" /> <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimhj02&layout=compact&theme=radical" height="180" />
+
+
+  <h3 align="center">solved.ac</h3>
   <a href="https://solved.ac/profile/snowrabbit123">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=snowrabbit123" alt="Solved.ac Profile" />
   </a>
